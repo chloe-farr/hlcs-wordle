@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hlcs-wordle/static/css/main.073c9b0a.css",
+    "main.js": "/hlcs-wordle/static/js/main.4f97eed2.js",
+    "static/js/787.f0167270.chunk.js": "/hlcs-wordle/static/js/787.f0167270.chunk.js",
+    "static/media/logo.svg": "/hlcs-wordle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hlcs-wordle/index.html",
+    "main.073c9b0a.css.map": "/hlcs-wordle/static/css/main.073c9b0a.css.map",
+    "main.4f97eed2.js.map": "/hlcs-wordle/static/js/main.4f97eed2.js.map",
+    "787.f0167270.chunk.js.map": "/hlcs-wordle/static/js/787.f0167270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4f97eed2.js"
+  ]
+}
